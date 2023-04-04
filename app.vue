@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>I have deployed the gold</h1>
+    <h1>I have deployed the gold with SSR</h1>
     <NuxtWelcome />
   </div>
 </template>
